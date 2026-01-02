@@ -1,2 +1,2 @@
-"# Smart-Converter" 
-"# Smart-Converter" 
+Run karne ke lia
+streamlit run main.py
